@@ -1,7 +1,5 @@
 # EDU_Eulji
 
-Colab link : https://colab.research.google.com/drive/1frVZ15AP0URXeHy5nkR1dqccqe_Cwdzf?usp=sharing
+2 week python basic : https://colab.research.google.com/drive/1mwxuLkniTNJfUc2-okSoM9LKoDC4BLNr?usp=sharing
 
-완성본 link : https://colab.research.google.com/drive/1mwxuLkniTNJfUc2-okSoM9LKoDC4BLNr?usp=sharing
-
-ligand - docking : https://colab.research.google.com/drive/1zCGPAj4wDcU9VTEYmfVqGx7VOj0FkA1U#scrollTo=mFxdeBHvatJY
+3 week ligand - docking : https://colab.research.google.com/drive/1zCGPAj4wDcU9VTEYmfVqGx7VOj0FkA1U#scrollTo=mFxdeBHvatJY
